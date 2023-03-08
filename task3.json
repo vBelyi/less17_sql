@@ -1,0 +1,38 @@
+[
+	{
+		"JOB_ID" : "AD_VP",
+		"QUANTITY_OF_EMPLOYEES" : 2
+	},
+	{
+		"JOB_ID" : "FI_ACCOUNT",
+		"QUANTITY_OF_EMPLOYEES" : 5
+	},
+	{
+		"JOB_ID" : "IT_PROG",
+		"QUANTITY_OF_EMPLOYEES" : 5
+	},
+	{
+		"JOB_ID" : "PU_CLERK",
+		"QUANTITY_OF_EMPLOYEES" : 5
+	},
+	{
+		"JOB_ID" : "SA_MAN",
+		"QUANTITY_OF_EMPLOYEES" : 5
+	},
+	{
+		"JOB_ID" : "SA_REP",
+		"QUANTITY_OF_EMPLOYEES" : 30
+	},
+	{
+		"JOB_ID" : "SH_CLERK",
+		"QUANTITY_OF_EMPLOYEES" : 20
+	},
+	{
+		"JOB_ID" : "ST_CLERK",
+		"QUANTITY_OF_EMPLOYEES" : 20
+	},
+	{
+		"JOB_ID" : "ST_MAN",
+		"QUANTITY_OF_EMPLOYEES" : 5
+	}
+]
