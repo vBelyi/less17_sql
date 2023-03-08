@@ -1,5 +1,5 @@
 [
 	{
-		"COUNT(DISTINCT JOB_ID)" : 19
+		"QUANTITY_OF_JOBS" : 19
 	}
 ]
